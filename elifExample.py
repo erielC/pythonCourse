@@ -3,7 +3,7 @@ age = 3000
 if name == "Alice":
     print("Hi Alice")
 elif age < 12:
-    print("Yout not Alice")
+    print("Your not Alice")
 elif age > 2000:
     print("Still older than Alice")
 elif age > 2999:
