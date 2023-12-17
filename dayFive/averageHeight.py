@@ -15,3 +15,4 @@ print(f"number of students = {number_of_students}")
 
 average_height = round(total_height / number_of_students)
 print(f"average height = {average_height}")
+
