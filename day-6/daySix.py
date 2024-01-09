@@ -23,4 +23,3 @@ while not at_goal():
         move()
     else: 
         turn_left()
-  
